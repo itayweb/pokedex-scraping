@@ -1,0 +1,1511 @@
+{
+    "001": {
+        "id": 1,
+        "name": "Bulbasaur",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "height": 0.7,
+        "weight": 6.9,
+        "abilities": [
+            "Overgrow",
+            "Chlorophyll"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/ivysaur"
+    },
+    "002": {
+        "id": 2,
+        "name": "Ivysaur",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "height": 1.0,
+        "weight": 13.0,
+        "abilities": [
+            "Overgrow",
+            "Chlorophyll"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/venusaur"
+    },
+    "003": {
+        "id": 3,
+        "name": "Venusaur",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "height": 2.0,
+        "weight": 100.0,
+        "abilities": [
+            "Overgrow",
+            "Chlorophyll"
+        ],
+        "evolution": null
+    },
+    "004": {
+        "id": 4,
+        "name": "Charmander",
+        "type": [
+            "Fire"
+        ],
+        "height": 0.6,
+        "weight": 8.5,
+        "abilities": [
+            "Blaze",
+            "Solar Power"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/charmeleon"
+    },
+    "005": {
+        "id": 5,
+        "name": "Charmeleon",
+        "type": [
+            "Fire"
+        ],
+        "height": 1.1,
+        "weight": 19.0,
+        "abilities": [
+            "Blaze",
+            "Solar Power"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/charizard"
+    },
+    "006": {
+        "id": 6,
+        "name": "Charizard",
+        "type": [
+            "Fire",
+            "Flying"
+        ],
+        "height": 1.7,
+        "weight": 90.5,
+        "abilities": [
+            "Blaze",
+            "Solar Power"
+        ],
+        "evolution": null
+    },
+    "007": {
+        "id": 7,
+        "name": "Squirtle",
+        "type": [
+            "Water"
+        ],
+        "height": 0.5,
+        "weight": 9.0,
+        "abilities": [
+            "Torrent",
+            "Rain Dish"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/wartortle"
+    },
+    "008": {
+        "id": 8,
+        "name": "Wartortle",
+        "type": [
+            "Water"
+        ],
+        "height": 1.0,
+        "weight": 22.5,
+        "abilities": [
+            "Torrent",
+            "Rain Dish"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/blastoise"
+    },
+    "009": {
+        "id": 9,
+        "name": "Blastoise",
+        "type": [
+            "Water"
+        ],
+        "height": 1.6,
+        "weight": 85.5,
+        "abilities": [
+            "Torrent",
+            "Rain Dish"
+        ],
+        "evolution": null
+    },
+    "010": {
+        "id": 10,
+        "name": "Caterpie",
+        "type": [
+            "Bug"
+        ],
+        "height": 0.3,
+        "weight": 2.9,
+        "abilities": [
+            "Shield Dust",
+            "Run Away"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/metapod"
+    },
+    "011": {
+        "id": 11,
+        "name": "Metapod",
+        "type": [
+            "Bug"
+        ],
+        "height": 0.7,
+        "weight": 9.9,
+        "abilities": [
+            "Shed Skin"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/butterfree"
+    },
+    "012": {
+        "id": 12,
+        "name": "Butterfree",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "height": 1.1,
+        "weight": 32.0,
+        "abilities": [
+            "Compound Eyes",
+            "Tinted Lens"
+        ],
+        "evolution": null
+    },
+    "013": {
+        "id": 13,
+        "name": "Weedle",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "height": 0.3,
+        "weight": 3.2,
+        "abilities": [
+            "Shield Dust",
+            "Run Away"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/kakuna"
+    },
+    "014": {
+        "id": 14,
+        "name": "Kakuna",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "height": 0.6,
+        "weight": 10.0,
+        "abilities": [
+            "Shed Skin"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/beedrill"
+    },
+    "015": {
+        "id": 15,
+        "name": "Beedrill",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "height": 1.0,
+        "weight": 29.5,
+        "abilities": [
+            "Swarm",
+            "Sniper"
+        ],
+        "evolution": null
+    },
+    "016": {
+        "id": 16,
+        "name": "Pidgey",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "height": 0.3,
+        "weight": 1.8,
+        "abilities": [
+            "Keen Eye",
+            "Tangled Feet",
+            "Big Pecks"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/pidgeotto"
+    },
+    "017": {
+        "id": 17,
+        "name": "Pidgeotto",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "height": 1.1,
+        "weight": 30.0,
+        "abilities": [
+            "Keen Eye",
+            "Tangled Feet",
+            "Big Pecks"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/pidgeot"
+    },
+    "018": {
+        "id": 18,
+        "name": "Pidgeot",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "height": 1.5,
+        "weight": 39.5,
+        "abilities": [
+            "Keen Eye",
+            "Tangled Feet",
+            "Big Pecks"
+        ],
+        "evolution": null
+    },
+    "019": {
+        "id": 19,
+        "name": "Rattata",
+        "type": [
+            "Normal"
+        ],
+        "height": 0.3,
+        "weight": 3.5,
+        "abilities": [
+            "Run Away",
+            "Guts",
+            "Hustle"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/raticate"
+    },
+    "020": {
+        "id": 20,
+        "name": "Raticate",
+        "type": [
+            "Normal"
+        ],
+        "height": 0.7,
+        "weight": 18.5,
+        "abilities": [
+            "Run Away",
+            "Guts",
+            "Hustle"
+        ],
+        "evolution": null
+    },
+    "021": {
+        "id": 21,
+        "name": "Spearow",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "height": 0.3,
+        "weight": 2.0,
+        "abilities": [
+            "Keen Eye",
+            "Sniper"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/fearow"
+    },
+    "022": {
+        "id": 22,
+        "name": "Fearow",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "height": 1.2,
+        "weight": 38.0,
+        "abilities": [
+            "Keen Eye",
+            "Sniper"
+        ],
+        "evolution": null
+    },
+    "023": {
+        "id": 23,
+        "name": "Ekans",
+        "type": [
+            "Poison"
+        ],
+        "height": 2.0,
+        "weight": 6.9,
+        "abilities": [
+            "Intimidate",
+            "Shed Skin",
+            "Unnerve"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/arbok"
+    },
+    "024": {
+        "id": 24,
+        "name": "Arbok",
+        "type": [
+            "Poison"
+        ],
+        "height": 3.5,
+        "weight": 65.0,
+        "abilities": [
+            "Intimidate",
+            "Shed Skin",
+            "Unnerve"
+        ],
+        "evolution": null
+    },
+    "025": {
+        "id": 25,
+        "name": "Pikachu",
+        "type": [
+            "Electric"
+        ],
+        "height": 0.4,
+        "weight": 6.0,
+        "abilities": [
+            "Static",
+            "Lightning Rod"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/pichu"
+    },
+    "026": {
+        "id": 26,
+        "name": "Raichu",
+        "type": [
+            "Electric"
+        ],
+        "height": 0.8,
+        "weight": 30.0,
+        "abilities": [
+            "Static",
+            "Lightning Rod"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/pichu"
+    },
+    "027": {
+        "id": 27,
+        "name": "Sandshrew",
+        "type": [
+            "Ground"
+        ],
+        "height": 0.6,
+        "weight": 12.0,
+        "abilities": [
+            "Sand Veil",
+            "Sand Rush"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/sandslash"
+    },
+    "028": {
+        "id": 28,
+        "name": "Sandslash",
+        "type": [
+            "Ground"
+        ],
+        "height": 1.0,
+        "weight": 29.5,
+        "abilities": [
+            "Sand Veil",
+            "Sand Rush"
+        ],
+        "evolution": null
+    },
+    "029": {
+        "id": 29,
+        "name": "Nidoran\u2640 (female)",
+        "type": [
+            "Poison"
+        ],
+        "height": 0.4,
+        "weight": 7.0,
+        "abilities": [
+            "Poison Point",
+            "Rivalry",
+            "Hustle"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/nidorina"
+    },
+    "030": {
+        "id": 30,
+        "name": "Nidorina",
+        "type": [
+            "Poison"
+        ],
+        "height": 0.8,
+        "weight": 20.0,
+        "abilities": [
+            "Poison Point",
+            "Rivalry",
+            "Hustle"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/nidoqueen"
+    },
+    "031": {
+        "id": 31,
+        "name": "Nidoqueen",
+        "type": [
+            "Poison",
+            "Ground"
+        ],
+        "height": 1.3,
+        "weight": 60.0,
+        "abilities": [
+            "Poison Point",
+            "Rivalry",
+            "Sheer Force"
+        ],
+        "evolution": null
+    },
+    "032": {
+        "id": 32,
+        "name": "Nidoran\u2642 (male)",
+        "type": [
+            "Poison"
+        ],
+        "height": 0.5,
+        "weight": 9.0,
+        "abilities": [
+            "Poison Point",
+            "Rivalry",
+            "Hustle"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/nidorino"
+    },
+    "033": {
+        "id": 33,
+        "name": "Nidorino",
+        "type": [
+            "Poison"
+        ],
+        "height": 0.9,
+        "weight": 19.5,
+        "abilities": [
+            "Poison Point",
+            "Rivalry",
+            "Hustle"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/nidoking"
+    },
+    "034": {
+        "id": 34,
+        "name": "Nidoking",
+        "type": [
+            "Poison",
+            "Ground"
+        ],
+        "height": 1.4,
+        "weight": 62.0,
+        "abilities": [
+            "Poison Point",
+            "Rivalry",
+            "Sheer Force"
+        ],
+        "evolution": null
+    },
+    "035": {
+        "id": 35,
+        "name": "Clefairy",
+        "type": [
+            "Fairy"
+        ],
+        "height": 0.6,
+        "weight": 7.5,
+        "abilities": [
+            "Cute Charm",
+            "Magic Guard",
+            "Friend Guard"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/cleffa"
+    },
+    "036": {
+        "id": 36,
+        "name": "Clefable",
+        "type": [
+            "Fairy"
+        ],
+        "height": 1.3,
+        "weight": 40.0,
+        "abilities": [
+            "Cute Charm",
+            "Magic Guard",
+            "Unaware"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/cleffa"
+    },
+    "037": {
+        "id": 37,
+        "name": "Vulpix",
+        "type": [
+            "Fire"
+        ],
+        "height": 0.6,
+        "weight": 9.9,
+        "abilities": [
+            "Flash Fire",
+            "Drought"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/ninetales"
+    },
+    "038": {
+        "id": 38,
+        "name": "Ninetales",
+        "type": [
+            "Fire"
+        ],
+        "height": 1.1,
+        "weight": 19.9,
+        "abilities": [
+            "Flash Fire",
+            "Drought"
+        ],
+        "evolution": null
+    },
+    "039": {
+        "id": 39,
+        "name": "Jigglypuff",
+        "type": [
+            "Normal",
+            "Fairy"
+        ],
+        "height": 0.5,
+        "weight": 5.5,
+        "abilities": [
+            "Cute Charm",
+            "Competitive",
+            "Friend Guard"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/igglybuff"
+    },
+    "040": {
+        "id": 40,
+        "name": "Wigglytuff",
+        "type": [
+            "Normal",
+            "Fairy"
+        ],
+        "height": 1.0,
+        "weight": 12.0,
+        "abilities": [
+            "Cute Charm",
+            "Competitive",
+            "Frisk"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/igglybuff"
+    },
+    "041": {
+        "id": 41,
+        "name": "Zubat",
+        "type": [
+            "Poison",
+            "Flying"
+        ],
+        "height": 0.8,
+        "weight": 7.5,
+        "abilities": [
+            "Inner Focus",
+            "Infiltrator"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/golbat"
+    },
+    "042": {
+        "id": 42,
+        "name": "Golbat",
+        "type": [
+            "Poison",
+            "Flying"
+        ],
+        "height": 1.6,
+        "weight": 55.0,
+        "abilities": [
+            "Inner Focus",
+            "Infiltrator"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/crobat"
+    },
+    "043": {
+        "id": 43,
+        "name": "Oddish",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "height": 0.5,
+        "weight": 5.4,
+        "abilities": [
+            "Chlorophyll",
+            "Run Away"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/gloom"
+    },
+    "044": {
+        "id": 44,
+        "name": "Gloom",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "height": 0.8,
+        "weight": 8.6,
+        "abilities": [
+            "Chlorophyll",
+            "Stench"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/vileplume"
+    },
+    "045": {
+        "id": 45,
+        "name": "Vileplume",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "height": 1.2,
+        "weight": 18.6,
+        "abilities": [
+            "Chlorophyll",
+            "Effect Spore"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/bellossom"
+    },
+    "046": {
+        "id": 46,
+        "name": "Paras",
+        "type": [
+            "Bug",
+            "Grass"
+        ],
+        "height": 0.3,
+        "weight": 5.4,
+        "abilities": [
+            "Effect Spore",
+            "Dry Skin",
+            "Damp"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/parasect"
+    },
+    "047": {
+        "id": 47,
+        "name": "Parasect",
+        "type": [
+            "Bug",
+            "Grass"
+        ],
+        "height": 1.0,
+        "weight": 29.5,
+        "abilities": [
+            "Effect Spore",
+            "Dry Skin",
+            "Damp"
+        ],
+        "evolution": null
+    },
+    "048": {
+        "id": 48,
+        "name": "Venonat",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "height": 1.0,
+        "weight": 30.0,
+        "abilities": [
+            "Compound Eyes",
+            "Tinted Lens",
+            "Run Away"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/venomoth"
+    },
+    "049": {
+        "id": 49,
+        "name": "Venomoth",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "height": 1.5,
+        "weight": 12.5,
+        "abilities": [
+            "Shield Dust",
+            "Tinted Lens",
+            "Wonder Skin"
+        ],
+        "evolution": null
+    },
+    "050": {
+        "id": 50,
+        "name": "Diglett",
+        "type": [
+            "Ground"
+        ],
+        "height": 0.2,
+        "weight": 0.8,
+        "abilities": [
+            "Sand Veil",
+            "Arena Trap",
+            "Sand Force"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/dugtrio"
+    },
+    "051": {
+        "id": 51,
+        "name": "Dugtrio",
+        "type": [
+            "Ground"
+        ],
+        "height": 0.7,
+        "weight": 33.3,
+        "abilities": [
+            "Sand Veil",
+            "Arena Trap",
+            "Sand Force"
+        ],
+        "evolution": null
+    },
+    "052": {
+        "id": 52,
+        "name": "Meowth",
+        "type": [
+            "Normal"
+        ],
+        "height": 0.4,
+        "weight": 4.2,
+        "abilities": [
+            "Pickup",
+            "Technician",
+            "Unnerve"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/persian"
+    },
+    "053": {
+        "id": 53,
+        "name": "Persian",
+        "type": [
+            "Normal"
+        ],
+        "height": 1.0,
+        "weight": 32.0,
+        "abilities": [
+            "Limber",
+            "Technician",
+            "Unnerve"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/perrserker"
+    },
+    "054": {
+        "id": 54,
+        "name": "Psyduck",
+        "type": [
+            "Water"
+        ],
+        "height": 0.8,
+        "weight": 19.6,
+        "abilities": [
+            "Damp",
+            "Cloud Nine",
+            "Swift Swim"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/golduck"
+    },
+    "055": {
+        "id": 55,
+        "name": "Golduck",
+        "type": [
+            "Water"
+        ],
+        "height": 1.7,
+        "weight": 76.6,
+        "abilities": [
+            "Damp",
+            "Cloud Nine",
+            "Swift Swim"
+        ],
+        "evolution": null
+    },
+    "056": {
+        "id": 56,
+        "name": "Mankey",
+        "type": [
+            "Fighting"
+        ],
+        "height": 0.5,
+        "weight": 28.0,
+        "abilities": [
+            "Vital Spirit",
+            "Anger Point",
+            "Defiant"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/primeape"
+    },
+    "057": {
+        "id": 57,
+        "name": "Primeape",
+        "type": [
+            "Fighting"
+        ],
+        "height": 1.0,
+        "weight": 32.0,
+        "abilities": [
+            "Vital Spirit",
+            "Anger Point",
+            "Defiant"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/annihilape"
+    },
+    "058": {
+        "id": 58,
+        "name": "Growlithe",
+        "type": [
+            "Fire"
+        ],
+        "height": 0.7,
+        "weight": 19.0,
+        "abilities": [
+            "Intimidate",
+            "Flash Fire",
+            "Justified"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/arcanine"
+    },
+    "059": {
+        "id": 59,
+        "name": "Arcanine",
+        "type": [
+            "Fire"
+        ],
+        "height": 1.9,
+        "weight": 155.0,
+        "abilities": [
+            "Intimidate",
+            "Flash Fire",
+            "Justified"
+        ],
+        "evolution": null
+    },
+    "060": {
+        "id": 60,
+        "name": "Poliwag",
+        "type": [
+            "Water"
+        ],
+        "height": 0.6,
+        "weight": 12.4,
+        "abilities": [
+            "Water Absorb",
+            "Damp",
+            "Swift Swim"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/poliwhirl"
+    },
+    "061": {
+        "id": 61,
+        "name": "Poliwhirl",
+        "type": [
+            "Water"
+        ],
+        "height": 1.0,
+        "weight": 20.0,
+        "abilities": [
+            "Water Absorb",
+            "Damp",
+            "Swift Swim"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/poliwrath"
+    },
+    "062": {
+        "id": 62,
+        "name": "Poliwrath",
+        "type": [
+            "Water",
+            "Fighting"
+        ],
+        "height": 1.3,
+        "weight": 54.0,
+        "abilities": [
+            "Water Absorb",
+            "Damp",
+            "Swift Swim"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/politoed"
+    },
+    "063": {
+        "id": 63,
+        "name": "Abra",
+        "type": [
+            "Psychic"
+        ],
+        "height": 0.9,
+        "weight": 19.5,
+        "abilities": [
+            "Synchronize",
+            "Inner Focus",
+            "Magic Guard"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/kadabra"
+    },
+    "064": {
+        "id": 64,
+        "name": "Kadabra",
+        "type": [
+            "Psychic"
+        ],
+        "height": 1.3,
+        "weight": 56.5,
+        "abilities": [
+            "Synchronize",
+            "Inner Focus",
+            "Magic Guard"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/alakazam"
+    },
+    "065": {
+        "id": 65,
+        "name": "Alakazam",
+        "type": [
+            "Psychic"
+        ],
+        "height": 1.5,
+        "weight": 48.0,
+        "abilities": [
+            "Synchronize",
+            "Inner Focus",
+            "Magic Guard"
+        ],
+        "evolution": null
+    },
+    "066": {
+        "id": 66,
+        "name": "Machop",
+        "type": [
+            "Fighting"
+        ],
+        "height": 0.8,
+        "weight": 19.5,
+        "abilities": [
+            "Guts",
+            "No Guard",
+            "Steadfast"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/machoke"
+    },
+    "067": {
+        "id": 67,
+        "name": "Machoke",
+        "type": [
+            "Fighting"
+        ],
+        "height": 1.5,
+        "weight": 70.5,
+        "abilities": [
+            "Guts",
+            "No Guard",
+            "Steadfast"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/machamp"
+    },
+    "068": {
+        "id": 68,
+        "name": "Machamp",
+        "type": [
+            "Fighting"
+        ],
+        "height": 1.6,
+        "weight": 130.0,
+        "abilities": [
+            "Guts",
+            "No Guard",
+            "Steadfast"
+        ],
+        "evolution": null
+    },
+    "069": {
+        "id": 69,
+        "name": "Bellsprout",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "height": 0.7,
+        "weight": 4.0,
+        "abilities": [
+            "Chlorophyll",
+            "Gluttony"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/weepinbell"
+    },
+    "070": {
+        "id": 70,
+        "name": "Weepinbell",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "height": 1.0,
+        "weight": 6.4,
+        "abilities": [
+            "Chlorophyll",
+            "Gluttony"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/victreebel"
+    },
+    "071": {
+        "id": 71,
+        "name": "Victreebel",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "height": 1.7,
+        "weight": 15.5,
+        "abilities": [
+            "Chlorophyll",
+            "Gluttony"
+        ],
+        "evolution": null
+    },
+    "072": {
+        "id": 72,
+        "name": "Tentacool",
+        "type": [
+            "Water",
+            "Poison"
+        ],
+        "height": 0.9,
+        "weight": 45.5,
+        "abilities": [
+            "Clear Body",
+            "Liquid Ooze",
+            "Rain Dish"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/tentacruel"
+    },
+    "073": {
+        "id": 73,
+        "name": "Tentacruel",
+        "type": [
+            "Water",
+            "Poison"
+        ],
+        "height": 1.6,
+        "weight": 55.0,
+        "abilities": [
+            "Clear Body",
+            "Liquid Ooze",
+            "Rain Dish"
+        ],
+        "evolution": null
+    },
+    "074": {
+        "id": 74,
+        "name": "Geodude",
+        "type": [
+            "Rock",
+            "Ground"
+        ],
+        "height": 0.4,
+        "weight": 20.0,
+        "abilities": [
+            "Rock Head",
+            "Sturdy",
+            "Sand Veil"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/graveler"
+    },
+    "075": {
+        "id": 75,
+        "name": "Graveler",
+        "type": [
+            "Rock",
+            "Ground"
+        ],
+        "height": 1.0,
+        "weight": 105.0,
+        "abilities": [
+            "Rock Head",
+            "Sturdy",
+            "Sand Veil"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/golem"
+    },
+    "076": {
+        "id": 76,
+        "name": "Golem",
+        "type": [
+            "Rock",
+            "Ground"
+        ],
+        "height": 1.4,
+        "weight": 300.0,
+        "abilities": [
+            "Rock Head",
+            "Sturdy",
+            "Sand Veil"
+        ],
+        "evolution": null
+    },
+    "077": {
+        "id": 77,
+        "name": "Ponyta",
+        "type": [
+            "Fire"
+        ],
+        "height": 1.0,
+        "weight": 30.0,
+        "abilities": [
+            "Run Away",
+            "Flash Fire",
+            "Flame Body"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/rapidash"
+    },
+    "078": {
+        "id": 78,
+        "name": "Rapidash",
+        "type": [
+            "Fire"
+        ],
+        "height": 1.7,
+        "weight": 95.0,
+        "abilities": [
+            "Run Away",
+            "Flash Fire",
+            "Flame Body"
+        ],
+        "evolution": null
+    },
+    "079": {
+        "id": 79,
+        "name": "Slowpoke",
+        "type": [
+            "Water",
+            "Psychic"
+        ],
+        "height": 1.2,
+        "weight": 36.0,
+        "abilities": [
+            "Oblivious",
+            "Own Tempo",
+            "Regenerator"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/slowbro"
+    },
+    "080": {
+        "id": 80,
+        "name": "Slowbro",
+        "type": [
+            "Water",
+            "Psychic"
+        ],
+        "height": 1.6,
+        "weight": 78.5,
+        "abilities": [
+            "Oblivious",
+            "Own Tempo",
+            "Regenerator"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/slowking"
+    },
+    "081": {
+        "id": 81,
+        "name": "Magnemite",
+        "type": [
+            "Electric",
+            "Steel"
+        ],
+        "height": 0.3,
+        "weight": 6.0,
+        "abilities": [
+            "Magnet Pull",
+            "Sturdy",
+            "Analytic"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/magneton"
+    },
+    "082": {
+        "id": 82,
+        "name": "Magneton",
+        "type": [
+            "Electric",
+            "Steel"
+        ],
+        "height": 1.0,
+        "weight": 60.0,
+        "abilities": [
+            "Magnet Pull",
+            "Sturdy",
+            "Analytic"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/magnezone"
+    },
+    "083": {
+        "id": 83,
+        "name": "Farfetch'd",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "height": 0.8,
+        "weight": 15.0,
+        "abilities": [
+            "Keen Eye",
+            "Inner Focus",
+            "Defiant"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/sirfetchd"
+    },
+    "084": {
+        "id": 84,
+        "name": "Doduo",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "height": 1.4,
+        "weight": 39.2,
+        "abilities": [
+            "Run Away",
+            "Early Bird",
+            "Tangled Feet"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/dodrio"
+    },
+    "085": {
+        "id": 85,
+        "name": "Dodrio",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "height": 1.8,
+        "weight": 85.2,
+        "abilities": [
+            "Run Away",
+            "Early Bird",
+            "Tangled Feet"
+        ],
+        "evolution": null
+    },
+    "086": {
+        "id": 86,
+        "name": "Seel",
+        "type": [
+            "Water"
+        ],
+        "height": 1.1,
+        "weight": 90.0,
+        "abilities": [
+            "Thick Fat",
+            "Hydration",
+            "Ice Body"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/dewgong"
+    },
+    "087": {
+        "id": 87,
+        "name": "Dewgong",
+        "type": [
+            "Water",
+            "Ice"
+        ],
+        "height": 1.7,
+        "weight": 120.0,
+        "abilities": [
+            "Thick Fat",
+            "Hydration",
+            "Ice Body"
+        ],
+        "evolution": null
+    },
+    "088": {
+        "id": 88,
+        "name": "Grimer",
+        "type": [
+            "Poison"
+        ],
+        "height": 0.9,
+        "weight": 30.0,
+        "abilities": [
+            "Stench",
+            "Sticky Hold",
+            "Poison Touch"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/muk"
+    },
+    "089": {
+        "id": 89,
+        "name": "Muk",
+        "type": [
+            "Poison"
+        ],
+        "height": 1.2,
+        "weight": 30.0,
+        "abilities": [
+            "Stench",
+            "Sticky Hold",
+            "Poison Touch"
+        ],
+        "evolution": null
+    },
+    "090": {
+        "id": 90,
+        "name": "Shellder",
+        "type": [
+            "Water"
+        ],
+        "height": 0.3,
+        "weight": 4.0,
+        "abilities": [
+            "Shell Armor",
+            "Skill Link",
+            "Overcoat"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/cloyster"
+    },
+    "091": {
+        "id": 91,
+        "name": "Cloyster",
+        "type": [
+            "Water",
+            "Ice"
+        ],
+        "height": 1.5,
+        "weight": 132.0,
+        "abilities": [
+            "Shell Armor",
+            "Skill Link",
+            "Overcoat"
+        ],
+        "evolution": null
+    },
+    "092": {
+        "id": 92,
+        "name": "Gastly",
+        "type": [
+            "Ghost",
+            "Poison"
+        ],
+        "height": 1.3,
+        "weight": 0.1,
+        "abilities": [
+            "Levitate"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/haunter"
+    },
+    "093": {
+        "id": 93,
+        "name": "Haunter",
+        "type": [
+            "Ghost",
+            "Poison"
+        ],
+        "height": 1.6,
+        "weight": 0.1,
+        "abilities": [
+            "Levitate"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/gengar"
+    },
+    "094": {
+        "id": 94,
+        "name": "Gengar",
+        "type": [
+            "Ghost",
+            "Poison"
+        ],
+        "height": 1.5,
+        "weight": 40.5,
+        "abilities": [
+            "Cursed Body"
+        ],
+        "evolution": null
+    },
+    "095": {
+        "id": 95,
+        "name": "Onix",
+        "type": [
+            "Rock",
+            "Ground"
+        ],
+        "height": 8.8,
+        "weight": 210.0,
+        "abilities": [
+            "Rock Head",
+            "Sturdy",
+            "Weak Armor"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/steelix"
+    },
+    "096": {
+        "id": 96,
+        "name": "Drowzee",
+        "type": [
+            "Psychic"
+        ],
+        "height": 1.0,
+        "weight": 32.4,
+        "abilities": [
+            "Insomnia",
+            "Forewarn",
+            "Inner Focus"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/hypno"
+    },
+    "097": {
+        "id": 97,
+        "name": "Hypno",
+        "type": [
+            "Psychic"
+        ],
+        "height": 1.6,
+        "weight": 75.6,
+        "abilities": [
+            "Insomnia",
+            "Forewarn",
+            "Inner Focus"
+        ],
+        "evolution": null
+    },
+    "098": {
+        "id": 98,
+        "name": "Krabby",
+        "type": [
+            "Water"
+        ],
+        "height": 0.4,
+        "weight": 6.5,
+        "abilities": [
+            "Hyper Cutter",
+            "Shell Armor",
+            "Sheer Force"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/kingler"
+    },
+    "099": {
+        "id": 99,
+        "name": "Kingler",
+        "type": [
+            "Water"
+        ],
+        "height": 1.3,
+        "weight": 60.0,
+        "abilities": [
+            "Hyper Cutter",
+            "Shell Armor",
+            "Sheer Force"
+        ],
+        "evolution": null
+    },
+    "100": {
+        "id": 100,
+        "name": "Voltorb",
+        "type": [
+            "Electric"
+        ],
+        "height": 0.5,
+        "weight": 10.4,
+        "abilities": [
+            "Soundproof",
+            "Static",
+            "Aftermath"
+        ],
+        "evolution": "https://pokemondb.net/pokedex/electrode"
+    }
+}
