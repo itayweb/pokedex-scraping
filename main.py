@@ -64,17 +64,22 @@ async def get_pokemons(url: str):
     soup = get_soup(url)
     pokemons = {}
     count = 1
-    for card in soup.select('div.infocard'):
-        if count <= 100:
-            id = card.select_one('span.text-muted > small').text[-3:]
-            a = card.select_one('a.ent-name')
-            if a and a.get('href'):
-                pokemon_details_task = asyncio.create_task(get_pokemon_details(a['href']))
-                details = await pokemon_details_task
-                pokemons[id] = details
-                count += 1
-        else:
-            break
+    details_tasks = []
+    pokemons_ids = []
+    async with asyncio.TaskGroup() as tg:
+        for card in soup.select('div.infocard'):
+            if count <= 100:
+                id = card.select_one('span.text-muted > small').text[-3:]
+                a = card.select_one('a.ent-name')
+                if a and a.get('href'):
+                    pokemon_details_task = tg.create_task(get_pokemon_details(a['href']))
+                    details_tasks.append(pokemon_details_task)
+                    pokemons_ids.append(id)
+                    count += 1
+            else:
+                break
+    details_results = [task.result() for task in details_tasks]
+    pokemons = {pokemons_ids[i]: details_results[i] for i in range(len(details_results))}
     print("Finished scraping 100 pokemons' details")
     return pokemons
 
